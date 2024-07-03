@@ -1,5 +1,12 @@
+Steps to create repository
 git init ==> Create a local git folder which we will connect to our github repository
 git add . ==> Prep everything we want to send to github
 git commit -m "first commit"
 Hello it is a test!
 git remote add origin https://github.com/meganarmas/test-https.git
+
+
+Steps to update a repository on github
+git add .
+get commit -m "message here"
+git push -u origin main
