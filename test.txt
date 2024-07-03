@@ -1,0 +1,2 @@
+git init ==> Create a local git folder which we will connect to our github repository
+git add . ==> Prep everything we want to send to github
