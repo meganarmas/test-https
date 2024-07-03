@@ -1,3 +1,5 @@
 git init ==> Create a local git folder which we will connect to our github repository
 git add . ==> Prep everything we want to send to github
 git commit -m "first commit"
+Hello it is a test!
+git remote add origin https://github.com/meganarmas/test-https.git
