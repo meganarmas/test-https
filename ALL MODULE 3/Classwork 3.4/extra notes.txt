@@ -1,0 +1,6 @@
+regex main character types: literal characters (extra characters you want to match) and metacharacters (special symbols that represent broader categories or patterns)
+
+dot: (.) can match any character except (\n)
+caret (^) anchor for the start iof the string
+dollar ($) end of the string, nothing goes beyond it
+astreick (*) matches zero or more occurrences of the pattern
